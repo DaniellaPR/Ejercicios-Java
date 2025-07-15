@@ -1,4 +1,4 @@
-# Proyecto Programación 3
+# Proyecto - KAPUTT
 ### 1. Base de datos
 ### 2. Interfaz
 ### 3. Programción de botones de gastos
