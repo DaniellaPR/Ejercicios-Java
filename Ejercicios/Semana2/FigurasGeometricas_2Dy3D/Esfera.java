@@ -6,7 +6,7 @@ package figuras_geometricas_2d_y_3d;
 
 /**
  *
- * @author Gab
+ * @author danie
  */
 public class Esfera {
     float radio;
@@ -27,3 +27,4 @@ public class Esfera {
         System.out.println("Radio: " + this.radio);
     }
 }
+
