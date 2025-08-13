@@ -6,7 +6,7 @@ package figuras_geometricas_2d_y_3d;
 
 /**
  *
- * @author Gab
+ * @author danie
  */
 public class Piramide {
     float altura;
@@ -31,3 +31,4 @@ public class Piramide {
         System.out.println("Altura: " + this.altura + "\n" + "Altura lateral: " + this.altura_lateral + "\n" + "Lado base: " + this.lado_base);
     }
 }
+
