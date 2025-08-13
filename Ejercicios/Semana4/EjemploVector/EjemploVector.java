@@ -11,7 +11,7 @@ import java.util.Vector;
 
 /**
  *
- * @author Michael
+ * @author danie
  */
 public class EjemploVector {
     
@@ -91,3 +91,4 @@ public class EjemploVector {
     }
     
 }
+
