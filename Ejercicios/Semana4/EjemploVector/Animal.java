@@ -6,7 +6,7 @@ package ejemplovector;
 
 /**
  *
- * @author Michael
+ * @author danie
  */
 public class Animal {
     private String nombre;
@@ -31,3 +31,4 @@ public class Animal {
         System.out.println("Anio de nacimiento: " + this.anioNacimiento);
     }
 }
+
