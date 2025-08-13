@@ -6,7 +6,7 @@ package propetario_vehiculo;
 
 /**
  *
- * @author Gab
+ * @author danie
  */
 public class Propietario {
     private String nombre;
@@ -37,3 +37,4 @@ public class Propietario {
         System.out.println("Nombre: " + nombre + "\nID: " + ID + "\nTelefono: " + telefono + "\nDireccion: " + direccion +"\nMarca de carro: " + carro.getMarca() + "\nPlaca: " + carro.getPlaca());
     }
 }
+
