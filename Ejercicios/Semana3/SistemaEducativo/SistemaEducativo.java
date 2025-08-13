@@ -9,7 +9,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 /**
  *
- * @author Michael
+ * @author israelito
  */
 public class SistemaEducativo{
 
@@ -61,3 +61,4 @@ public class SistemaEducativo{
     }
     
 }
+
