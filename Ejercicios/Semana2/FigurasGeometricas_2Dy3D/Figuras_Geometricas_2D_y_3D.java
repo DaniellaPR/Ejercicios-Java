@@ -2,7 +2,7 @@ package figuras_geometricas_2d_y_3d;
 
 /**
  *
- * @author Gab
+ * @author israe
  */
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -90,3 +90,4 @@ public class Figuras_Geometricas_2D_y_3D {
     }
     
 }
+
