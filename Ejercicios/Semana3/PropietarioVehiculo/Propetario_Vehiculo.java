@@ -9,7 +9,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 /**
  *
- * @author Gab
+ * @author danie
  */
 public class Propetario_Vehiculo {
 
@@ -120,3 +120,4 @@ public class Propetario_Vehiculo {
         }
     }    
 }
+
