@@ -6,7 +6,7 @@ package propetario_vehiculo;
 
 /**
  *
- * @author Gab
+ * @author danie
  */
 public class Vehiculo {
     private String placa;
@@ -35,3 +35,4 @@ public class Vehiculo {
         System.out.println("Marca: " + marca + "\nModelo: " + modelo + "\nPlaca: " + placa + "\nAño de fabricacion: " + anioDeFabricacion);
     }
 }
+
