@@ -6,7 +6,7 @@ package figuras_geometricas_2d_y_3d;
 
 /**
  *
- * @author Gab
+ * @author danie
  */
 public class Trapecio {
     float base_super;
@@ -27,3 +27,4 @@ public class Trapecio {
         System.out.println("Base superior: " + this.base_super + "\n" + "Base superior: " + this.base_infer + "\n" + "Altura: " + this.altura);
     }
 }
+
