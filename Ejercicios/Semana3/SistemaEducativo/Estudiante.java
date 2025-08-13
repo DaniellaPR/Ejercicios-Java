@@ -6,7 +6,7 @@ package sistemaeducativo;
 
 /**
  *
- * @author Michael
+ * @author israelito
  */
 public class Estudiante {
     // Ver datos Id, curso, paralelo, nombre, edad
@@ -37,3 +37,4 @@ public class Estudiante {
         System.out.println("Nombre: " + nombre + "\nId: " + id + "\nEdad: " + edad + "\nCurso: " + curso +"\nParalelo: " + paralelo);
     }
 }
+
