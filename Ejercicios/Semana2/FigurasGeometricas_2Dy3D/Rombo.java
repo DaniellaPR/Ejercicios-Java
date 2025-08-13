@@ -6,7 +6,7 @@ package figuras_geometricas_2d_y_3d;
 
 /**
  *
- * @author Gab
+ * @author danie
  */
 public class Rombo {
     float diametro_superior;
@@ -25,3 +25,4 @@ public class Rombo {
         System.out.println("Diametro superior: " + this.diametro_superior + "\n" + "Diametro superior: " + this.diametro_inferior);
     }
 }
+
