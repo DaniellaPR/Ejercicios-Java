@@ -6,7 +6,7 @@ package figuras_geometricas_2d_y_3d;
 
 /**
  *
- * @author Gab
+ * @author danie
  */
 public class Rectangulo {
     float altura;
@@ -25,3 +25,4 @@ public class Rectangulo {
         System.out.println("Altura: " + this.altura + "\n" + "Base: " + this.base);
     }
 }
+
