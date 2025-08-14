@@ -6,7 +6,7 @@ package com.mycompany.sistemadeexportacion;
 
 /**
  *
- * @author Michael
+ * @author israe
  */
 public class Aeronave extends Vehiculo{
     private String registroAeronave;
@@ -26,3 +26,4 @@ public class Aeronave extends Vehiculo{
         return cad;
     }
 }
+
