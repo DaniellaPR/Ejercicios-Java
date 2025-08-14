@@ -6,7 +6,7 @@ package com.mycompany.sistemadeexportacion;
 
 /**
  *
- * @author Michael
+ * @author israe
  */
 public class Vehiculo {
     protected String marca;
@@ -49,3 +49,4 @@ public class Vehiculo {
         return embarcacion.verEmbarcacion();
     }
 }
+
