@@ -7,7 +7,7 @@ package sistema_tienda;
 import java.util.ArrayList;
 /**
  *
- * @author Gab
+ * @author israe
  */
 public class Cliente {
     private String nombre;
@@ -46,3 +46,4 @@ public class Cliente {
         return cad;
     }
 }
+
