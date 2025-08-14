@@ -6,7 +6,7 @@ package com.mycompany.sistemadeexportacion;
 import java.util.ArrayList;
 /**
  *
- * @author Michael
+ * @author israe
  */
 public class NewJFrame extends javax.swing.JFrame {
     ArrayList<Vehiculo> listaVehiculos = new ArrayList<>();
