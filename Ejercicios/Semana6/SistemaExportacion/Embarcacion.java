@@ -6,7 +6,7 @@ package com.mycompany.sistemadeexportacion;
 
 /**
  *
- * @author Michael
+ * @author israe
  */
 public class Embarcacion extends Vehiculo{
     private String identificacionNaval;
@@ -26,3 +26,4 @@ public class Embarcacion extends Vehiculo{
         return cad;
     }
 }
+
