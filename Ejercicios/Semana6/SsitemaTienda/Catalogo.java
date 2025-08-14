@@ -6,7 +6,7 @@ package sistema_tienda;
 
 /**
  *
- * @author Gab
+ * @author israe
  */
 public class Catalogo {
     private String tipo;
@@ -17,3 +17,4 @@ public class Catalogo {
         return this.tipo;
     }
 }
+
