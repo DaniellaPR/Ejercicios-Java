@@ -6,7 +6,7 @@ package com.mycompany.sistemadeexportacion;
 
 /**
  *
- * @author Michael
+ * @author israe
  */
 public class Producto {
     private String id;
@@ -31,3 +31,4 @@ public class Producto {
         return cad;
     }
 }
+
