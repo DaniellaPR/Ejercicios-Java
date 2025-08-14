@@ -6,7 +6,7 @@ package com.mycompany.sistemadeexportacion;
 import java.util.ArrayList;
 /**
  *
- * @author Michael
+ * @author israe
  */
 public class OrdenExportacion {
     private String numeroIdentificacion;
@@ -44,3 +44,4 @@ public class OrdenExportacion {
         return cad;
     }
 }
+
