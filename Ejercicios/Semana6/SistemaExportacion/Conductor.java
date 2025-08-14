@@ -6,7 +6,7 @@ package com.mycompany.sistemadeexportacion;
 
 /**
  *
- * @author Michael
+ * @author israe
  */
 public class Conductor {
     private String cedula;
@@ -56,3 +56,4 @@ public class Conductor {
         return cad;
     }
 }
+
